@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="suelos" tilewidth="32" tileheight="32">
+  <image source="../../../../../../tiles/suelos.png" width="384" height="480"/>
+ </tileset>
+ <tileset firstgid="181" name="Dungeon_B" tilewidth="32" tileheight="32">
+  <image source="../../../../../../tiles/Dungeon_B.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="40" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC82VuQ6DMBBE/f81hwQpcApMASmSfGAcCaSVNbusD47iVcjmsTM2zhjjMpg8bSKDx648wfMx0y3XbyZ+rxv6bTNEs9vz+yj5nuxX4p2xGaNskV9pr87TrzwS1lO/3B5J+6NMKk+jWF+qR4h3sC91knKlfnXA3jcd1TXOzwJKOGryk/h31zF+FsyVmzHnQWcV67q5SX4S9L7SeKBc6dkOoXcK57AIcB2K6Zf234XcYjqcitZPO5ur/H5lsdAZYAkAAA==
+  </data>
+ </layer>
+ <layer name="Capa de patrones 2" width="40" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgoD/QZGRg0APiiwyoWJ8RIjcYgB0Wd9gPsNsk0exHDqvBEm7IwIgRO3uwACdG7OxRgApiBnnY5NDAfeF4zMQnh55HaQXS8diDT44agF5+HMmA3PRHLPhDJMYFaJH+kNMVF5DNDcQ8jPjZgx0AAIbdAz5gCQAA
+  </data>
+ </layer>
+ <layer name="colisiones" width="40" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgoAxIMFJXD7IcOWaTYhep+tDFBtJ96HqJcS+6HLGYVgCXm2lpJy77CYUfLdxFaThTO69Q23xapyNKzaZXOiMXEFtOkiJHLTCYw24wuG0gylN6Alqnv8EeTsS6DwCYkSGdYAkAAA==
+  </data>
+ </layer>
+ <objectgroup name="Capa de Objetos 1" width="40" height="15">
+  <object name="heroe" x="37" y="360"/>
+  <object name="G_1" x="173" y="332"/>
+  <object name="G_1" x="177" y="402"/>
+  <object name="G_1" x="290" y="328"/>
+  <object name="G_1" x="292" y="404"/>
+  <object name="G_1" x="425" y="363"/>
+  <object name="G_1" x="547" y="351"/>
+  <object name="G_1" x="636" y="385"/>
+  <object name="G_1" x="734" y="322"/>
+  <object name="G_1" x="836" y="352"/>
+  <object name="G_1" x="890" y="258"/>
+  <object name="G_1" x="986" y="227"/>
+  <object name="G_1" x="552" y="246"/>
+ </objectgroup>
+</map>

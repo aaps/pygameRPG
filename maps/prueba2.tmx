@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="suelo" tilewidth="32" tileheight="32">
+  <image source="../../../../../../tiles/suelos.png" trans="ffffff" width="384" height="480"/>
+ </tileset>
+ <tileset firstgid="181" name="Outside_B" tilewidth="32" tileheight="32">
+  <image source="../../../../../../tiles/Outside_B.png" trans="ffffff" width="512" height="512"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3YuQrDMBBFUTXZuhiSLov//ysjFQYRXDh43hsc3+L0cz0CCQ+llAGb8wyUNferOlXnAJfqYWqYm/sWSN3Sf/vIuZ0t/Q7UDX3LdYM7+HYP3Ini/GfsJGv+fif/0tHO1tr7JbujibhfshvmTC2/vBGyZ16yoyWy5wUAAAAAYI1RxN1xEDhWb3NH9P/uibtF1eFuUXY4W9QdrhZHh6PF1aFucXb0LWMwd0ejuLMyOgBgzz5VfCBMECcAAA==
+  </data>
+ </layer>
+ <layer name="Capa de patrones 2" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2YS07DMBCG61NwI5B6AVaFVcNDKuxChASsECC6pUDFlpe4JLaSESNrXL/Gsan8SyOraeLM19+TcTOZVFXl04PwjyURj6KsvO8DGIBjLBZTbp0jl4lhLJapR96m72wMqVhWcq4n0Y8hNQBx68GQolZe5FzPoh8Vy4nD3LvaOW8BDNyefMl5PkU/fgxz3ok+lGZyPJBxaLjfqzy+DuTg9MTmx0J+PpNxLmOfuKfi+CmAg/ID60oeu5ZxY7jfNwOHHiEKqQ9K6w3X7RHfUedPI1hsfuQQ5ZEtuPzIrRg/upGYdxxC5f4+MDSF+eGSP4TK/Uj8jTmk++qTPwSojWC4YOQPYVABHuTyAiuUAfzo0LqCPWMOxXDg+mhQzYco5vkVw6Bi5eEBdd4pg3exDCr0PkgJ6pjy6pKh53BwhPZBrj7DwWDyA35/fR1x928uBpsfppq31ZNrL+LkoPyw5UnxHXt4BZyp/cB5pu4nKf3AwkxQHw0aYR8wz9g7TH60Wt665kP+rcP+0qVWODjwvl3JlBNeX9T+OMYPDhZKlA+YFe9vMU/IcxlfE8MRs19PJS4/StG2cIBK5MC1tWlNm/5jlsLBpW3hwCqJQ60jai3pa2+sd2Y5xPm+pqqqqqqq6j/qF3nPA8cQJwAA
+  </data>
+ </layer>
+ <layer name="colisiones" width="50" height="50" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2ZQQ6AIAwE+YL//6wHL4ZEoLhlW9hJvBgp3RawDaUIKxfbgfL4gHqYfqNte7MqZt5zrMy711yMfYiaE7UHZsd7xG7UZv0dKwY9e5b8MHNpsdc7f1E6kOd8T0fLByTM/LbGfsWn9e5PjRCh/kEgHXxYdagQgof2PBfLuZslVxl8HGFXHVnWUc3KHtCTmb42Il5962qy+fvmtLr9JK1MkPcaO65RaYmJtMREWmKymxb9r4QQIjc31Amr2hAnAAA=
+  </data>
+ </layer>
+ <objectgroup name="Capa de Elementos" width="50" height="50">
+  <object name="heroe" x="1440" y="806" width="27" height="28"/>
+  <object name="G_1" x="1223" y="695"/>
+  <object name="G_1" x="1220" y="886"/>
+  <object name="G_1" x="1118" y="656"/>
+  <object name="G_1" x="882" y="652"/>
+  <object name="G_1" x="1074" y="927"/>
+  <object name="G_1" x="1398" y="1156"/>
+  <object name="G_1" x="939" y="1199"/>
+  <object name="G_1" x="538" y="990"/>
+  <object name="G_1" x="245" y="1020"/>
+  <object name="G_1" x="379" y="512"/>
+  <object name="G_1" x="668" y="156"/>
+ </objectgroup>
+</map>

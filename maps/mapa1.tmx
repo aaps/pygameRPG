@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tilea2" tilewidth="32" tileheight="32">
+  <image source="../graphics/tilesets/tilea2.png" trans="ffffff" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="193" name="suelos" tilewidth="32" tileheight="32">
+  <image source="../graphics/tilesets/suelos.png" trans="ffffff" width="384" height="480"/>
+ </tileset>
+ <tileset firstgid="373" name="trees2" tilewidth="32" tileheight="32">
+  <image source="../graphics/tilesets/trees2.png" trans="ffffff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="629" name="21" tilewidth="32" tileheight="32">
+  <image source="../graphics/tilesets/21.png" trans="ffffff" width="512" height="512"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3UQQ6CMBCF4XFBb6A30CNwA7wBulUTgwt1g/ePQ2KTUjtASZsW8hZfXJDg/B2g2RA1ATzYOaEQDS37LLwj9fw+Ha0glwapI9dZfTr03BURlZR+vjkd5tmX1Jd6Tq0QZpG+m3bHMaMWnw675bTgjk5tNFQR9yI9L1P5fJfqgb2MzWFfvzuk2mU3m6ZI7ino/zf17Jr6zW7ONrSTseuuPV3Yld0i7szcQej76pmf7MXekTrUxLOdy/XuhGwoKGzD2H1Cd9jvaSzScxr7f5doDWfSNWzZbgUte244rKADAAAAAAAAAAAAACCGL1Gz2koQJwAA
+  </data>
+ </layer>
+ <layer name="Capa de patrones 2" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC9VaOW7cQBAktXDk2JKP2Jcc+459/8fyCyTAgK+ASiRfwUbaD8jyAwzY33HkxE0IDdTWds9FcpcsoDBc7SzZNT3T0z1UVfWHw7qq5vV563HuXCubwHch9oUG7JgDD6ltDJstnU29qjmkrSuO5B7H9CwE2mTZZtlv+Ubh/T7VTq89Ff6gZzX0XP0OW/adZyOPi44Na45pOBP+TGiPyXZGQ3+zfGdpVBzI9a96WUfIH0dg04m0v4V/EtpFZEwsm1mjtqxxX67f1udaWKulA8cftbQ2xtpc8NwLaX0tf98TvoHvQ+scx7/EthyE/PN3q6reCd8LPwg/Cj8J/20t+wznFsLyxyZwYVZVn8XmL8Kvwm/C78KLs2X91jpqsU5/hHBJ7N0W7ggvC68IrwqvzZb74Trx4ugmcV3svSG8KbwlvC3cFd6ZrfbV9ZESR9eNu2LvPeF94QPhQ+Ej4WPQoetEdZTG0SHxROx9KnwmfC58IXwpfAU6OMdhP5TG0U0A4y77YQqwYu8U/WDF3i5+aOrVvGlo4J5urY/c+IQ5uH7GFvv1CR07rrdOC/YMrJm8lvul3NO6tp6LeW4DOtAnmO96iNWoHBPRZw1d49jinmD1s2pFbc9gjaTug2hrqI6z6u5YDY7fcT++B/Yp2Qdza9VQDevV3N74e7pK/FFSq1p2aR9Lp3Umwfbj3OqSl+TUqqiL+1iaUQPGRevspW271HehWqgUeGbk1erWuYQVc1Ni1rrg+Ri/93QoxqIlhjnoUB+cgO1Tybda6HrA/VAxFX+0QD9wzjglf+C8Qt9sukbPBds+lrOfXOC8WtTjOfvJhdpvnUmn5r9jAK/zMZ4DpUBzKo5ZYzoHSgHaac2tKWhogXmh5Q9LQ+wdlYWh1xk/PxavcJ/R1tPN9+X79anNWste7q7zbkHjb93D24di2kqRupbRrpT3a5ZfY9o4Z/U+W0iJrfp8rH85D8B9SH1l+dkas9R3qZjH8pxM8Yc+n9eFNWahvMDzR+q7VMxjeU6m7nVou651b7/05kGf/mDk7HUp76FztZX6g5GTe+C88NZHjrY+UeoPL8e33gkNmeeEYn/oN9pXfcB2sX88bX0hthd7v4n5w5r/Xf/3wQLH3aH8MTR4TP4DYId9hBAnAAA=
+  </data>
+ </layer>
+ <layer name="Capa de patrones 3" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2XwQ3CMAxFW7ixB6OwEyOwQ7tBuwGc4UDX4U4iZMmyStq4qVpb/0mRlUNU2992mqoCAFjmWW/tAZC8giY3Y7p8Dlt7sC5XY3p44Xzc2oMyeKmfS9DjJHpd7qdoneSiNx4HdACl8VJTAADfNLWveeUlnq7+3ekxnntYD8MxkSbvsAbDcUQ86BHpHOjhoc894WX2AgAAwWdaY3i+cd+7gnHIuf9vL+1eyNWU/s3JLqFUHjR1mdJMc34uqW9p6rIXdZ2rCfc9Jwepb2n12FtvaPXg79cl8Yyd1eSWv9vm2nZhXU0hc0v6T52hd1vKUgxDIR1yGYstwu8AjR5r6KCB3wFz9OCW+7+Xfi/VH18lB586ECcAAA==
+  </data>
+ </layer>
+ <layer name="colisiones" width="50" height="50" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2Y6w7CIAyF9bV8/wcz+2E0pJev0ALbPMniFFZ61tIefDz+0PB6fq9smzMgrfX53n5Kz1p2ybwMWP5ZXKRxzy7lEo2hFoOeNci7p/Yj8+ncqC2aZ3TN3z1rXSPw9o7nY8a8XmRxr1wjA1rMo3m/mgupHZl7sgrZfWcV2lzqrcGruXh5RWrcag4UV+BwYKTf7wCr9p6FQ4sMLTzzTKCtT34jNrw6n83T03QZOp1y82yO+kj1a69fUm/TzlnSvB6Q2hzRDOTeG4uCxMPiQvQp1R0RvzKf0WqI5XNEY5AciOZiRc3V/ND2W7U/WfDeq8Qlmq+7wOuHZ+Fydd1Lx3fBHeJxFR5kfBfcKR5n6CUjZ46dQHvezhwOEA25O4cDloZu76XntIuulQVNF3r+ePaIHTJOEdXvkTMbOQdKz1pzafxH97oXD8otkh8RX6M2PP+rzwaVtZfGJgOz9NbKeGSuWf3/wEz9a/XeLNu9473rnD0eVT3e0xs7a603RC6FMRAnAAA=
+  </data>
+ </layer>
+ <layer name="over" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2WwQ7DIAiGbfcMO+2Z122HnbqHnc1iYhqY0KAi5UtMU0ORHywaguOMwXvqHcFxPoXYe2grxSRN0lhDa20tI+89Dvc5hCWORxzPOF7zb56rv/Xessj1As/fkPkzoH1fWeoTlrSMjNcBZstLz9xAa3P7094HdkeS1plyJ+G3pAF7Un1i9tTYt5qsk8zZAa2Z5zHPK6QXsjuC9DlIyTfH7mxov5dI4nVvg1TP6smaxT+6Fmt4PZwa+L7SheT9VwuWtDg6Sf8M9vz3TYu4qLZSfmtpK/mkaEg+sPsmp2bYO6X+GJw6UHxQ4sXeJdan2KZcSfvWwF6btfNotHpYBeprTj+4fc0Ziy/n1KStECcAAA==
+  </data>
+ </layer>
+ <objectgroup name="Capa de Objetos 1" width="50" height="50">
+  <object name="heroe" x="1299" y="434"/>
+  <object name="G_1" x="942" y="368"/>
+  <object name="G_1" x="597" y="364"/>
+  <object name="G_1" x="396" y="490"/>
+  <object name="G_1" x="243" y="237"/>
+  <object name="G_1" x="140" y="571"/>
+  <object name="G_1" x="426" y="835"/>
+  <object name="G_2" x="491" y="1065"/>
+  <object name="G_2" x="790" y="855"/>
+  <object name="G_2" x="789" y="1023"/>
+  <object name="G_2" x="1165" y="968"/>
+  <object name="D_1" x="386" y="322"/>
+  <object name="D_1" x="315" y="901"/>
+  <object name="D_1" x="1047" y="881"/>
+  <object name="D_2" x="1454" y="1059"/>
+  <object name="D_5" x="1441" y="931"/>
+  <object name="G_2" x="962" y="1089"/>
+  <object name="G_2" x="1333" y="1169"/>
+  <object name="D_5" x="1507" y="1169"/>
+  <object name="D_5" x="275" y="1534"/>
+  <object name="D_5" x="203" y="1465"/>
+ </objectgroup>
+</map>

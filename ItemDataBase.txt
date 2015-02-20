@@ -1,0 +1,237 @@
+#ID	TIPO	NOMBRE	ATK	DEF	MAXHP	MAXSP	NIVEL	CANT	EFECTO	SPRITE
+1	W	Espada Nv 1	3	0	0	0	1	0	N/N	blade/1101
+2	W	Espada Nv 5	10	0	0	0	5	0	N/N	blade/1107
+3	W	Espada Nv 10	20	0	0	0	10	0	N/N	blade/1104
+4	W	Espada Nv 15	44	0	0	0	15	0	N/N	blade/1113
+5	W	Espada Nv 20	66	0	0	0	20	0	N/N	blade/1129
+6	W	Espada Nv 25	78	0	0	0	25	0	N/N	blade/1134
+7	W	Espada Nv 30	101	0	0	0	30	0	N/N	blade/1131
+8	W	Espada Nv 35	123	0	0	0	35	0	N/N	blade/1132
+9	W	Espada Nv 40	156	0	0	0	40	0	N/N	blade/1133
+10	W	Espada Nv 45	179	0	0	0	45	0	N/N	blade/13411
+11	W	Espada Nv 50	223	0	0	0	50	0	N/N	blade/13402
+12	W	Espada Nv 55	254	0	0	0	55	0	N/N	blade/13419
+13	W	Espada Nv 60	297	0	0	0	60	0	N/N	blade/13424
+14	W	Espada Nv 65	349	0	0	0	65	0	N/N	blade/1142
+15	W	Espada Nv 70	407	0	0	0	70	0	N/N	blade/13418
+16	W	Espada Nv 75	586	0	0	0	75	0	N/N	blade/1144
+17	W	Espada Nv 80	712	0	0	0	80	0	N/N	blade/1137
+18	W	Espada Nv 85	833	0	0	0	85	0	N/N	blade/1136
+19	W	Espada Nv 90	1068	0	0	0	90	0	N/N	blade/13420
+20	W	Espada Nv 95	1527	0	0	0	95	0	N/N	blade/13431
+21	W	Martillo Nv 1	3	0	0	0	1	0	N/N	mace/1501
+22	W	Martillo Nv 5	10	0	0	0	5	0	N/N	mace/1501
+23	W	Martillo NV 10	20	0	0	0	10	0	N/N	mace/1501
+24	W	Martillo Nv 15	44	0	0	0	15	0	N/N	mace/1501
+25	W	Martillo Nv 20	66	0	0	0	20	0	N/N	mace/1501
+26	W	Martillo Nv 25	78	0	0	0	25	0	N/N	mace/1501
+27	W	Martillo Nv 30	101	0	0	0	30	0	N/N	mace/1501
+28	W	Martillo Nv 35	123	0	0	0	35	0	N/N	mace/1501
+29	W	Martillo Nv 40	156	0	0	0	40	0	N/N	mace/1501
+30	W	Martillo Nv 45	179	0	0	0	45	0	N/N	mace/1501
+31	W	Martillo Nv 50	223	0	0	0	50	0	N/N	mace/1501
+32	W	Martillo Nv 55	254	0	0	0	55	0	N/N	mace/1501
+33	W	Martillo Nv 60	297	0	0	0	60	0	N/N	mace/1501
+34	W	Martillo Nv 65	349	0	0	0	65	0	N/N	mace/1501
+35	W	Martillo Nv 70	407	0	0	0	70	0	N/N	mace/1501
+36	W	Martillo Nv 75	586	0	0	0	75	0	N/N	mace/1501
+37	W	Martillo Nv 80	712	0	0	0	80	0	N/N	mace/1501
+38	W	Martillo Nv 85	833	0	0	0	85	0	N/N	mace/1501
+39	W	Martillo Nv 90	1068	0	0	0	90	0	N/N	mace/1501
+40	W	Martillo Nv 95	1527	0	0	0	95	0	N/N	mace/1501
+41	W	Daga Nv 1	3	0	0	0	1	0	N/N	dagger/1201
+42	W	Daga Nv 5	10	0	0	0	5	0	N/N	dagger/1201
+43	W	Daga Nv 10	20	0	0	0	10	0	N/N	dagger/1201
+44	W	Daga Nv 15	44	0	0	0	15	0	N/N	dagger/1201
+45	W	Daga Nv 20	66	0	0	0	20	0	N/N	dagger/1201
+46	W	Daga Nv 25	78	0	0	0	25	0	N/N	dagger/1201
+47	W	Daga Nv 30	101	0	0	0	30	0	N/N	dagger/1201
+48	W	Daga Nv 35	123	0	0	0	35	0	N/N	dagger/1201
+49	W	Daga Nv 40	156	0	0	0	40	0	N/N	dagger/1201
+50	W	Daga Nv 45	179	0	0	0	45	0	N/N	dagger/1201
+51	W	Daga Nv 50	223	0	0	0	50	0	N/N	dagger/1201
+52	W	Daga Nv 55	254	0	0	0	55	0	N/N	dagger/1201
+53	W	Daga Nv 60	297	0	0	0	60	0	N/N	dagger/1201
+54	W	Daga Nv 65	349	0	0	0	65	0	N/N	dagger/1201
+55	W	Daga Nv 70	407	0	0	0	70	0	N/N	dagger/1201
+56	W	Daga Nv 75	586	0	0	0	75	0	N/N	dagger/1201
+57	W	Daga Nv 80	712	0	0	0	80	0	N/N	dagger/1201
+58	W	Daga Nv 85	833	0	0	0	85	0	N/N	dagger/1201
+59	W	Daga Nv 90	1068	0	0	0	90	0	N/N	dagger/1201
+60	W	Daga Nv 95	1527	0	0	0	95	0	N/N	dagger/1201
+61	W	Arco Nv 1	3	0	0	0	1	0	N/N	bow/1701
+62	W	Arco Nv 5	10	0	0	0	5	0	N/N	bow/1701
+63	W	Arco Nv 10	20	0	0	0	10	0	N/N	bow/1701
+64	W	Arco Nv 15	44	0	0	0	15	0	N/N	bow/1701
+65	W	Arco Nv 20	66	0	0	0	20	0	N/N	bow/1701
+66	W	Arco Nv 25	78	0	0	0	25	0	N/N	bow/1701
+67	W	Arco Nv 30	101	0	0	0	30	0	N/N	bow/1701
+68	W	Arco Nv 35	123	0	0	0	35	0	N/N	bow/1701
+69	W	Arco Nv 40	156	0	0	0	40	0	N/N	bow/1701
+70	W	Arco Nv 45	179	0	0	0	45	0	N/N	bow/1701
+71	W	Arco Nv 50	223	0	0	0	50	0	N/N	bow/1701
+72	W	Arco Nv 55	254	0	0	0	55	0	N/N	bow/1701
+73	W	Arco Nv 60	297	0	0	0	60	0	N/N	bow/1701
+74	W	Arco Nv 65	349	0	0	0	65	0	N/N	bow/1701
+75	W	Arco Nv 70	407	0	0	0	70	0	N/N	bow/1701
+76	W	Arco Nv 75	586	0	0	0	75	0	N/N	bow/1701
+77	W	Arco Nv 80	712	0	0	0	80	0	N/N	bow/1701
+78	W	Arco Nv 85	833	0	0	0	85	0	N/N	bow/1701
+79	W	Arco Nv 90	1068	0	0	0	90	0	N/N	bow/1701
+80	W	Arco Nv 95	1527	0	0	0	95	0	N/N	bow/1701
+81	W	Hacha Nv 1	3	0	0	0	1	0	N/N	axe/1301
+82	W	Hacha Nv 5	10	0	0	0	5	0	N/N	axe/1301
+83	W	Hacha Nv 10	20	0	0	0	10	0	N/N	axe/1301
+84	W	Hacha Nv 15	44	0	0	0	15	0	N/N	axe/1301
+85	W	Hacha Nv 20	66	0	0	0	20	0	N/N	axe/1301
+86	W	Hacha Nv 25	78	0	0	0	25	0	N/N	axe/1301
+87	W	Hacha Nv 30	101	0	0	0	30	0	N/N	axe/1301
+88	W	Hacha Nv 35	123	0	0	0	35	0	N/N	axe/1301
+89	W	Hacha Nv 40	156	0	0	0	40	0	N/N	axe/1301
+90	W	Hacha Nv 45	179	0	0	0	45	0	N/N	axe/1301
+91	W	Hacha Nv 50	223	0	0	0	50	0	N/N	axe/1301
+92	W	Hacha Nv 55	254	0	0	0	55	0	N/N	axe/1301
+93	W	Hacha Nv 60	297	0	0	0	60	0	N/N	axe/1301
+94	W	Hacha Nv 65	349	0	0	0	65	0	N/N	axe/1301
+95	W	Hacha Nv 70	407	0	0	0	70	0	N/N	axe/1301
+96	W	Hacha Nv 75	586	0	0	0	75	0	N/N	axe/1301
+97	W	Hacha Nv 80	712	0	0	0	80	0	N/N	axe/1301
+98	W	Hacha Nv 85	833	0	0	0	85	0	N/N	axe/1301
+99	W	Hacha Nv 90	1068	0	0	0	90	0	N/N	axe/1301
+100	W	Hacha Nv 95	1527	0	0	0	95	0	N/N	axe/1301
+101	P	Pocion Curativa Ligera	0	0	0	0	1	0	HP+10	potion/501
+102	P	Pocion Curativa Menor	0	0	0	0	3	0	HP+25	potion/501
+103	P	Pocion Curativa	0	0	0	0	8	0	HP+50	potion/501
+104	P	Pocion Curativa Mayor	0	0	0	0	15	0	HP+100	potion/501
+105	P	Gran Pocion Curativa	0	0	0	0	23	0	HP+250	potion/501
+106	P	Super Pocion Curativa	0	0	0	0	35	0	HP+425	potion/501
+107	P	Full Pocion Curativa	0	0	0	0	50	0	HP+750	potion/501
+108	P	Pocion Magica Ligera	0	0	0	0	1	0	SP+5	potion/505
+109	P	Pocion Magica Menor	0	0	0	0	3	0	SP+10	potion/505
+110	P	Pocion Magica	0	0	0	0	8	0	SP+20	potion/505
+111	P	Pocion Magica Mayor	0	0	0	0	15	0	SP+50	potion/505
+112	P	Gran Pocion Magica	0	0	0	0	23	0	SP+75	potion/505
+113	P	Super Pocion Magica	0	0	0	0	35	0	SP+125	potion/505
+114	P	Full Pocion Magica	0	0	0	0	50	0	SP+200	potion/505
+115	A	Armadura 1 Nv 1	0	1	2	0	1	0	N/N	armor/2301
+116	A	Armadura 1 Nv 5	0	3	5	0	5	0	N/N	armor/2301
+117	A	Armadura 1 Nv 10	0	5	9	0	10	0	N/N	armor/2301
+118	A	Armadura 1 Nv 15	0	7	13	0	15	0	N/N	armor/2301
+119	A	Armadura 1 Nv 20	0	11	17	0	20	0	N/N	armor/2301
+120	A	Armadura 1 Nv 25	0	14	20	0	25	0	N/N	armor/2301
+121	A	Armadura 1 Nv 30	0	17	23	0	30	0	N/N	armor/2301
+122	A	Armadura 1 Nv 35	0	21	28	0	35	0	N/N	armor/2301
+123	A	Armadura 1 Nv 40	0	25	31	0	40	0	N/N	armor/2301
+124	A	Armadura 1 Nv 45	0	28	35	0	45	0	N/N	armor/2301
+125	A	Armadura 1 Nv 50	0	31	39	0	50	0	N/N	armor/2301
+126	A	Armadura 1 Nv 55	0	35	42	0	55	0	N/N	armor/2301
+127	A	Armadura 1 Nv 60	0	38	46	0	60	0	N/N	armor/2301
+128	A	Armadura 1 Nv 65	0	43	50	0	65	0	N/N	armor/2301
+129	A	Armadura 1 Nv 70	0	47	54	0	70	0	N/N	armor/2301
+130	A	Armadura 1 Nv 75	0	55	57	0	75	0	N/N	armor/2301
+131	A	Armadura 1 Nv 80	0	60	61	0	80	0	N/N	armor/2301
+132	A	Armadura 1 Nv 85	0	66	65	0	85	0	N/N	armor/2301
+133	A	Armadura 1 Nv 90	0	78	68	0	90	0	N/N	armor/2301
+134	A	Armadura 1 Nv 95	0	91	72	0	95	0	N/N	armor/2301
+135	A	Armadura 2 Nv 1	0	1	2	0	1	0	N/N	armor/2303
+136	A	Armadura 2 Nv 5	0	3	5	0	5	0	N/N	armor/2303
+137	A	Armadura 2 Nv 10	0	5	9	0	10	0	N/N	armor/2303
+138	A	Armadura 2 Nv 15	0	7	13	0	15	0	N/N	armor/2303
+139	A	Armadura 2 Nv 20	0	11	17	0	20	0	N/N	armor/2303
+140	A	Armadura 2 Nv 25	0	14	20	0	25	0	N/N	armor/2303
+141	A	Armadura 2 Nv 30	0	17	23	0	30	0	N/N	armor/2303
+142	A	Armadura 2 Nv 35	0	21	28	0	35	0	N/N	armor/2303
+143	A	Armadura 2 Nv 40	0	25	31	0	40	0	N/N	armor/2303
+144	A	Armadura 2 Nv 45	0	28	35	0	45	0	N/N	armor/2303
+145	A	Armadura 2 Nv 50	0	31	39	0	50	0	N/N	armor/2303
+146	A	Armadura 2 Nv 55	0	35	42	0	55	0	N/N	armor/2303
+147	A	Armadura 2 Nv 60	0	38	46	0	60	0	N/N	armor/2303
+148	A	Armadura 2 Nv 65	0	43	50	0	65	0	N/N	armor/2303
+149	A	Armadura 2 Nv 70	0	47	54	0	70	0	N/N	armor/2303
+150	A	Armadura 2 Nv 75	0	55	57	0	75	0	N/N	armor/2303
+151	A	Armadura 2 Nv 80	0	60	61	0	80	0	N/N	armor/2303
+152	A	Armadura 2 Nv 85	0	66	65	0	85	0	N/N	armor/2303
+153	A	Armadura 2 Nv 90	0	78	68	0	90	0	N/N	armor/2303
+154	A	Armadura 2 Nv 95	0	91	72	0	95	0	N/N	armor/2303
+155	A	Armadura 3 Nv 1	0	1	2	0	1	0	N/N	armor/2322
+156	A	Armadura 3 Nv 5	0	3	5	0	5	0	N/N	armor/2322
+157	A	Armadura 3 Nv 10	0	5	9	0	10	0	N/N	armor/2322
+158	A	Armadura 3 Nv 15	0	7	13	0	15	0	N/N	armor/2322
+159	A	Armadura 3 Nv 20	0	11	17	0	20	0	N/N	armor/2322
+160	A	Armadura 3 Nv 25	0	14	20	0	25	0	N/N	armor/2322
+161	A	Armadura 3 Nv 30	0	17	23	0	30	0	N/N	armor/2322
+162	A	Armadura 3 Nv 35	0	21	28	0	35	0	N/N	armor/2322
+163	A	Armadura 3 Nv 40	0	25	31	0	40	0	N/N	armor/2322
+164	A	Armadura 3 Nv 45	0	28	35	0	45	0	N/N	armor/2322
+165	A	Armadura 3 Nv 50	0	31	39	0	50	0	N/N	armor/2322
+166	A	Armadura 3 Nv 55	0	35	42	0	55	0	N/N	armor/2322
+167	A	Armadura 3 Nv 60	0	38	46	0	60	0	N/N	armor/2322
+168	A	Armadura 3 Nv 65	0	43	50	0	65	0	N/N	armor/2322
+169	A	Armadura 3 Nv 70	0	47	54	0	70	0	N/N	armor/2322
+170	A	Armadura 3 Nv 75	0	55	57	0	75	0	N/N	armor/2322
+171	A	Armadura 3 Nv 80	0	60	61	0	80	0	N/N	armor/2322
+172	A	Armadura 3 Nv 85	0	66	65	0	85	0	N/N	armor/2322
+173	A	Armadura 3 Nv 90	0	78	68	0	90	0	N/N	armor/2322
+174	A	Armadura 3 Nv 95	0	91	72	0	95	0	N/N	armor/2322
+175	A	Armadura 4 Nv 1	0	1	2	0	1	0	N/N	armor/2334
+176	A	Armadura 4 Nv 5	0	3	5	0	5	0	N/N	armor/2334
+177	A	Armadura 4 Nv 10	0	5	9	0	10	0	N/N	armor/2334
+178	A	Armadura 4 Nv 15	0	7	13	0	15	0	N/N	armor/2334
+179	A	Armadura 4 Nv 20	0	11	17	0	20	0	N/N	armor/2334
+180	A	Armadura 4 Nv 25	0	14	20	0	25	0	N/N	armor/2334
+181	A	Armadura 4 Nv 30	0	17	23	0	30	0	N/N	armor/2334
+182	A	Armadura 4 Nv 35	0	21	28	0	35	0	N/N	armor/2334
+183	A	Armadura 4 Nv 40	0	25	31	0	40	0	N/N	armor/2334
+184	A	Armadura 4 Nv 45	0	28	35	0	45	0	N/N	armor/2334
+185	A	Armadura 4 Nv 50	0	31	39	0	50	0	N/N	armor/2334
+186	A	Armadura 4 Nv 55	0	35	42	0	55	0	N/N	armor/2334
+187	A	Armadura 4 Nv 60	0	38	46	0	60	0	N/N	armor/2334
+188	A	Armadura 4 Nv 65	0	43	50	0	65	0	N/N	armor/2334
+189	A	Armadura 4 Nv 70	0	47	54	0	70	0	N/N	armor/2334
+190	A	Armadura 4 Nv 75	0	55	57	0	75	0	N/N	armor/2334
+191	A	Armadura 4 Nv 80	0	60	61	0	80	0	N/N	armor/2334
+192	A	Armadura 4 Nv 85	0	66	65	0	85	0	N/N	armor/2334
+193	A	Armadura 4 Nv 90	0	78	68	0	90	0	N/N	armor/2334
+194	A	Armadura 4 Nv 95	0	91	72	0	95	0	N/N	armor/2334
+195	FG	Zapatos 1 Nv 1	0	1	2	0	1	0	N/N	shoes/2441
+196	FG	Zapatos 2 Nv 1	0	3	5	0	5	0	N/N	shoes/2441
+197	FG	Zapatos 1 Nv 5	0	5	9	0	10	0	N/N	shoes/2443
+198	FG	Zapatos 2 Nv 5	0	7	13	0	15	0	N/N	shoes/2405
+199	FG	Zapatos 1 Nv 10	0	11	17	0	20	0	N/N	shoes/2416
+200	FG	Zapatos 2 Nv 10	0	14	20	0	25	0	N/N	shoes/2437
+201	FG	Zapatos 1 Nv 15	0	17	23	0	30	0	N/N	shoes/2422
+202	FG	Zapatos 2 Nv 15	0	21	28	0	35	0	N/N	shoes/2420
+203	FG	Zapatos 1 Nv 20	0	25	31	0	40	0	N/N	shoes/2415
+204	FG	Zapatos 2 Nv 20	0	28	35	0	45	0	N/N	shoes/2411
+205	FG	Zapatos 1 Nv 25	0	31	39	0	50	0	N/N	shoes/2407
+206	FG	Zapatos 2 Nv 25	0	35	42	0	55	0	N/N	shoes/2409
+207	FG	Zapatos 1 Nv 30	0	38	46	0	60	0	N/N	shoes/2456
+208	FG	Zapatos 2 Nv 30	0	43	50	0	65	0	N/N	shoes/2459
+209	FG	Zapatos 1 Nv 35	0	47	54	0	70	0	N/N	shoes/2460
+210	FG	Zapatos 2 Nv 35	0	55	57	0	75	0	N/N	shoes/2461
+211	FG	Zapatos 1 Nv 40	0	60	61	0	80	0	N/N	shoes/2438
+212	FG	Zapatos 2 Nv 40	0	66	65	0	85	0	N/N	shoes/2463
+213	FG	Zapatos 1 Nv 45	0	78	68	0	90	0	N/N	shoes/2465
+214	FG	Zapatos 2 Nv 45	0	91	72	0	95	0	N/N	shoes/2467
+215	FG	Zapatos 1 Nv 50	0	1	2	0	1	0	N/N	shoes/2468
+216	FG	Zapatos 2 Nv 50	0	3	5	0	5	0	N/N	shoes/2470
+217	FG	Zapatos 1 Nv 55	0	5	9	0	10	0	N/N	shoes/2478
+218	FG	Zapatos 2 Nv 55	0	7	13	0	15	0	N/N	shoes/2477
+219	FG	Zapatos 1 Nv 60	0	11	17	0	20	0	N/N	shoes/2448
+220	FG	Zapatos 2 Nv 60	0	14	20	0	25	0	N/N	shoes/2445
+221	FG	Zapatos 1 Nv 65	0	17	23	0	30	0	N/N	shoes/2469
+222	FG	Zapatos 2 Nv 65	0	21	28	0	35	0	N/N	shoes/2449
+223	FG	Zapatos 1 Nv 70	0	25	31	0	40	0	N/N	shoes/2419
+224	FG	Zapatos 2 Nv 70	0	28	35	0	45	0	N/N	shoes/2447
+225	FG	Zapatos 1 Nv 75	0	31	39	0	50	0	N/N	shoes/2426
+226	FG	Zapatos 2 Nv 75	0	35	42	0	55	0	N/N	shoes/2433
+227	FG	Zapatos 1 Nv 80	0	38	46	0	60	0	N/N	shoes/2440
+228	FG	Zapatos 2 Nv 80	0	43	50	0	65	0	N/N	shoes/2450
+229	FG	Zapatos 1 Nv 85	0	47	54	0	70	0	N/N	shoes/2471
+230	FG	Zapatos 2 Nv 85	0	55	57	0	75	0	N/N	shoes/2472
+231	FG	Zapatos 1 Nv 90	0	60	61	0	80	0	N/N	shoes/2475
+232	FG	Zapatos 2 Nv 90	0	66	65	0	85	0	N/N	shoes/2476
+233	FG	Zapatos 1 Nv 95	0	78	68	0	90	0	N/N	shoes/2479
+234	FG	Zapatos 2 Nv 95	0	91	72	0	95	0	N/N	shoes/2480
+235	FG	Zapatos 1 Nv 40	0	1	2	0	40	0	N/N	shoes/2455
+236	FG	Zapatos 2 Nv 40	0	3	5	0	40	0	N/N	shoes/2462

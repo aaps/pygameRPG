@@ -1,0 +1,46 @@
+||_____________________________________________________________________||
+||LAND OF SECRETS: Proyecto de mini RPG en Python & Pygame             ||
+||Programador: Ednar Alejandro Echeverría                              ||
+||Estudiante de Ing Plan Común - Universidad de Chile                  ||
+||_____________________________________________________________________||
+||_____________________________________________________________________||
+|| Land of Secrets ver Alpha Engine                          19/07/2012||
+||_____________________________________________________________________||
+|| *Sistema de mapas automáticos con Tiled Map Editor, colisiones y    ||
+|| posición inicial del personaje incluidas.                           ||
+||								       ||
+|| *Movimiento en 4 direcciones y animación de sprite al personaje.    ||
+||								       ||
+|| *Emulacion de cámara que sigue al personaje en su movimiento        ||
+||								       ||
+|| *Moustros por Tiled Map Editor				       ||
+||_____________________________________________________________________||
+||_____________________________________________________________________||
+|| Land of Secrets ver Alpha Engine                          21/07/2012||
+||_____________________________________________________________________||
+|| *Movimiento en 4 direcciones y animación de sprites de monsters.    ||
+||								       ||
+|| *Añadido menú principal de la partida                               ||
+||								       ||
+|| *Añadido sonido provisorio de ataque                                ||
+||								       ||
+|| *Añadido sistema de Hotkeys no funcionales                          ||
+||								       ||
+|| *Añadido sistema de items y drop                                    ||
+||								       ||
+|| *Añadido sistema de inventario y ventana del personaje              ||
+||								       ||
+|| *Añadido sistema de equipos                                         ||
+||								       ||
+|| *Inventario limitado: 30 casilleros                                 ||
+||								       ||
+|| *Añadidos nuevos items, mejorada su interfaz gráfica                ||
+||_____________________________________________________________________||
+|| Land of Secrets ver Alpha Engine                          27/08/2012||
+||_____________________________________________________________________||
+|| * Interfaz completamente renovada                                   ||
+||								       ||
+|| * Añadido botones: Login, Register y Exit al iniciar el juego       ||
+||								       ||
+|| * Añadido sistema GUI que ayuda en la creación de interfaz gráfica  ||
+||_____________________________________________________________________||

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="15" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Outside_B" tilewidth="32" tileheight="32">
+  <image source="../../../../../../tiles/Outside_B.png" trans="ffffff" width="512" height="512"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="15" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC3vEwMDwEIgfYaGxgY9A/BmIvwDxJygfG40NgMx9DMRP0Mwnxn50e5HFCdmPy15c9hNjLy778dmLy5/E2IvLn4PZXlIAoXDGBwaLvYTCGZlGthcAtiRB0IQDAAA=
+  </data>
+ </layer>
+ <layer name="colisiones" width="15" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC9vKwMCwFQfGBraisYnVh00vLjXYzCFGLy75Ub3k6yWEybUXnzuGql5SMQwAANJuX6eEAwAA
+  </data>
+ </layer>
+ <objectgroup name="Capa de Objetos 1" width="15" height="15">
+  <object name="heroe" x="325" y="57"/>
+ </objectgroup>
+</map>

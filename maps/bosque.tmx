@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="35" height="25" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="tile_bosque" tilewidth="40" tileheight="40">
+  <image source="../graphics/tilesets/tile_bosque.png" trans="#ff00ff"/>
+ </tileset>
+ <layer name="Base" width="35" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+NkYGDgHMWjeBRTDQsCsRABLEwnt0gCsRQBLD1C3IIc/iID7BZCdo+6hXpuQc+PxOY9JSQsQyW3oOcBcsKSWvmIGm5RRAsnbFiZDHOI0TOKRzG5eZsWmBr5adQto27BhQEQ/FM6rA0AAA==
+  </data>
+ </layer>
+ <layer name="Montañas" width="35" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2W2UpDQQyG+xTqlXpVxbXWXVHr2tYNXMH1sbz0Wf0KDYSQadM5I3rRHz7CHAgnmTOT89dqMW3DjlpPwwzMwho0YR02AnETtgLvXIWG8/wIWmpdhzmYh13Yg304UzHFARwGarH9R3QMJ3Daf1cqCudwofKlf7sHtv+IunAJV3AdiDdwq/Kl/1H3wNMd3MMDPAbiEzyrfOm/VaCWF3iFN3gPxA/4LPDesQYrdff/QpG733GeeT1MwGSFWuzdT+1T26y9HmSGl1J0RnrzS2Z4KeXMyLFi6p3fqczcUe/115B88SA58s6rd49F36Ymmy8eJEe551Vq+o/nXWbdAizCkhN7LMOKk5d7xjzJrBvkUz1vqn2uVpX/k8w68YYprDfVPlcrx5taDavFetOUSpzDUrVUkXxf8cwenk/+Dcn3/QHeU49NrA0AAA==
+  </data>
+ </layer>
+ <layer name="New Layer" width="35" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGHrAH4gDSFC/EYg3AfFmKN+DinaHA3EEEfqQ7dwFxLup4AZ0u+OBOIECc4mxF5f/aW03OghnoL//cYH4AbR7FFAHLAXiZXjkSS1zKAFrgXgdHnliyxwYwOV2avgJlu5hZhEyE5fbSfUTPgAzi5CZuPIsNfMyzKzR8mFwAXrmZ0KAmmmfUjCaThGA2DKNUjAViKch8ZdjUUNsmUYpmAvE85D467GoGSpl2nDL4wDTFLPVrA0AAA==
+  </data>
+ </layer>
+ <objectgroup name="Eventos" width="35" height="25">
+  <object name="heroe" x="625" y="544"/>
+  <object name="heroe" x="625" y="544"/>
+ </objectgroup>
+</map>
